@@ -10,4 +10,4 @@ Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by [Ghost](https://gho
 - 3
 
 # Copyright & License
-Copyright (C) 2016 - Released under the MIT License.
+Copyright (c) 2016 - Released under the MIT License.
