@@ -10,7 +10,8 @@ Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by [Ghost](https://gho
 - Fastclick([@ftlabs](https://github.com/ftlabs/fastclick))
 - Syntax highlighting([@PrismJS](https://github.com/PrismJS/prism))
 - Sitemap generator([@kinnetica](https://github.com/kinnetica/jekyll-plugins))
-- Rss generator([@agelber](https://github.com/agelber/jekyll-rss))
+- RSS generator([@agelber](https://github.com/agelber/jekyll-rss))
+- HTML compressor(simple [plugin](https://github.com/ozgrozer/dasper/blob/master/_plugins/htmlCompressor.rb) written by me)
 - Addthis sharing buttons
 - Disquss comments
 - Google analytics tracking
