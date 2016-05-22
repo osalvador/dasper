@@ -768,11 +768,10 @@ footer {
 /* 404 page */
 #notFound {
 
-	text-align: center;
-	color: $generalTextColor;
-	font-family: $articleFontFamily;
 	min-height: 600px;
 	line-height: 600px;
+	text-align: center;
+	color: $generalTextColor;
 
 	/* Mobile */
 	@media(max-width:$mobile-max) {
