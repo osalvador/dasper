@@ -1,7 +1,8 @@
 module Jekyll
 	module HtmlCompressor
 		def htmlCompressor(data)
-			data.gsub("\n", "").gsub("\t", "").gsub(/<!--(?!<!)[^\[>].*?-->/, "")
+			#data.gsub("\n", "").gsub("\t", "").gsub(/<!--(?!<!)[^\[>].*?-->/, "")
+			data.gsub(/<!--(?!<!)[^\[>].*?-->/, "")
 		end
 	end
 end
