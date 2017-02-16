@@ -50,7 +50,7 @@ layout: default
 {% endif %}
 
 <!-- If disqusUsername declared -->
-{% if site.disqusUsername != "" %}
+{% if site.disqusUsername != "" and (if page.comments == "" or page.comments == true) %}
 
 	<!-- Full width -->
 	<div class="full">
