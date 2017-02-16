@@ -18,7 +18,7 @@ permalink: /:categories/:year/:month/:day/:title
 baseurl: https://osalvador.github.io/dasper
 
 # Includes
-addthisId: ""
+addthisId: "ra-58a5b6fbd804eb7e"
 disqusUsername: ""
 googleAnalyticsId: ""
 
