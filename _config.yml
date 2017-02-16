@@ -1,17 +1,17 @@
 # Website details
-name: Dasper
-description: Just a demo
-email: hello@ozgrozer.com
-author: ozgrozer
+name: dbax
+description: PL/SQL framework for MVC Web Development
+email: hello@dbax.io
+author: Oscar Salvador
 lang: en
-locale: tr_TR
+locale: en_EN
 
 # Jekyll
 paginate: 10
 highlighter: rouge
 markdown: kramdown
 gems: [jekyll-paginate]
-timezone: Europe/Istanbul
+timezone: Europe/Paris
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
