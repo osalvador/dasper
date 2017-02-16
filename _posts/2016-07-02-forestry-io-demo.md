@@ -2,7 +2,7 @@
 title: Forestry.io Demo
 date: '2016-07-02 18:00:00'
 layout: article
-comments: true
+comments: false
 ---
 It's awesome. OMG Example edditing
 
