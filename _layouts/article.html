@@ -51,8 +51,7 @@ layout: default
 
 <!-- If disqusUsername declared -->
 {% if site.disqusUsername != "" %}
-  {% if page.comments == true or page.comments == "" %}
-
+  {% if page.comments is defined %}
 	<!-- Full width -->
 	<div class="full">
 
