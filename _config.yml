@@ -5,6 +5,7 @@ email: hello@dbax.io
 author: Oscar Salvador Magallanes
 lang: en
 locale: en_EN
+github: https://github.com/osalvador/dbax-lite
 
 # Jekyll
 paginate: 10
