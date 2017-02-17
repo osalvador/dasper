@@ -16,7 +16,7 @@ timezone: Europe/Paris
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://osalvador.github.io/dbax-blog
+baseurl: http://lite.dbax.io/blog
 
 # Includes
 addthisId: "58a5b6fbd804eb7e"
