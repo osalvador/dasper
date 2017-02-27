@@ -5,7 +5,7 @@ date: 2017-02-27 17:00:00+0200
 coverPhoto: http://osalvador.github.io/dbax-blog/contents/images/dbaxLogo.png
 ---
 
-I recently released the first pre-release of the first MVC PL/SQL framework, called [dbax](https://dbax.io). [You can access the project page] (https://dbax.io).
+I recently released the first pre-release of the first MVC PL/SQL framework, called [dbax](https://dbax.io). [You can access the project page](https://dbax.io).
 
 dbax is an open source framework for developing applications and Web services with PL/SQL. Its philosophy is to develop PL/SQL code in an elegant and simple way, avoiding the "spaghetti code". It was created in 2017 and has a great influence of frameworks like Laravel, Ruby on Rails or Sinatra.
 
@@ -19,11 +19,11 @@ In dbax everything happens inside the Oracle database and there is only one Gate
 
 Because I have been doing business applications with SQL, PL/SQL and Java for many years, and in many of these applications Java is not necessary because it only adds more layers of programming to these developments, increasing the time, cost and complexity.
 
-I think the best place to implement the business logic of our applications is inside the database, whether in PL/SQL packages, primary keys, foreign keys or other constraints. There is a great post by [Lukas Eder] (https://twitter.com/lukaseder?lang=es) author of [JOOQ] (https://www.jooq.org/): [Business Logic in the Database . Yes or No? It Depends!] (Http://www.vertabelo.com/blog/notes-from-the-lab/business-logic-in-the-database-yes-or-no-it-depends)
+I think the best place to implement the business logic of our applications is inside the database, whether in PL/SQL packages, primary keys, foreign keys or other constraints. There is a great post by [Lukas Eder](https://twitter.com/lukaseder?lang=es) author of [JOOQ](https://www.jooq.org/): [Business Logic in the Database . Yes or No? It Depends!](Http://www.vertabelo.com/blog/notes-from-the-lab/business-logic-in-the-database-yes-or-no-it-depends)
 
 For PL/SQL developers it is a very elegant way to extend their capabilities without having to start from scratch with another language and taking advantage of the ecosystem and knowledge that already have in SQL and PL/SQL.
 
-Also the PL/SQL language is very easy to learn because its syntax is very simple and the SQL "language"is one of the [most demanded today] (http://www.codingdojo.com/blog/9-most-in-demand-programming-languages-of-2016/) thanks to the growth of Big Data, allows developers to focus on essential complexity by reducing accidental. [There are still no silver bullets](https://es.wikipedia.org/wiki/No_hay_balas_de_plata).
+Also the PL/SQL language is very easy to learn because its syntax is very simple and the SQL "language"is one of the [most demanded today](http://www.codingdojo.com/blog/9-most-in-demand-programming-languages-of-2016/) thanks to the growth of Big Data, allows developers to focus on essential complexity by reducing accidental. [There are still no silver bullets](https://es.wikipedia.org/wiki/No_hay_balas_de_plata).
 
 Oracle with its Apex product tries to do the same, programming web applications only with PL/SQL. But Apex follows a pattern of declarative development, just as it did in the 1990s with Oracle Forms. Let's say Apex is an attempt to bring Oracle Forms to the Web (since Forms is no longer a strategic tool for development) but offers a very tight framework. There is no source code, so the use of version control makes it very complex, everything is stored in the Database as metadata. Product version changes, production steps, continuous integration become very complex. The views (HTML) are difficult to customize, since we can not modify the HTML, we have no control over it. URLs are not user friendly.
 
