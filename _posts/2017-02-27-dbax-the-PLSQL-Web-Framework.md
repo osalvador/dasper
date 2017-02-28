@@ -2,7 +2,7 @@
 layout: article
 title: dbax the PL/SQL Web Framework
 date: 2017-02-27 17:00:00+0200
-coverPhoto: http://osalvador.github.io/dbax-blog/contents/images/dbaxLogo.png
+coverPhoto: http://osalvador.github.io/dbaxblog/contents/images/dbaxLogo.png
 ---
 
 I recently released the first pre-release of the first MVC PL/SQL framework, called [dbax](https://dbax.io). [You can access the project page](https://dbax.io).
@@ -13,7 +13,7 @@ dbax aims to be a framework that allows the use of elegant and expressive syntax
 
 In dbax everything happens inside the Oracle database and there is only one Gateway to pass the HTTP requests to database calls. dbax can be installed on any edition of the Oracle database, including the Oracle Express edition.
 
-![dbax plsql framework](http://osalvador.github.io/dbax-blog/contents/images/dbaxLogo.png)
+![dbax plsql framework](http://osalvador.github.io/dbaxblog/contents/images/dbaxLogo.png)
 
 ## Why dbax?
 
