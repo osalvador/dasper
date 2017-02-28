@@ -21,7 +21,7 @@ baseurl: https://dbax.io/blog
 # Includes
 addthisId: "58a5b6fbd804eb7e"
 disqusUsername: "dbax"
-googleAnalyticsId: ""
+googleAnalyticsId: "UA-74703333-1"
 
 # Search engine verifications
 bing: ""
