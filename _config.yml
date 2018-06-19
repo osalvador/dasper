@@ -1,7 +1,7 @@
 # Website details
-name: dbax
+name: dbax-lite
 description: PL/SQL framework for MVC Web Development
-email: hello@dbax.io
+email: osalvador@gmail.com
 author: Oscar Salvador Magallanes
 lang: en
 locale: en_EN
@@ -16,7 +16,7 @@ timezone: Europe/Paris
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://dbax.io/blog
+baseurl: https://osalvador.github.io/dbaxblog/
 
 # Includes
 addthisId: "58a5b6fbd804eb7e"
