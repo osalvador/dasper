@@ -5,7 +5,7 @@ date: 2017-02-27 17:00:00+0200
 coverPhoto: https://osalvador.github.io/dbaxblog/contents/images/dbaxLogo.png
 ---
 
-I recently released the first pre-release of the first MVC PL/SQL framework, called [dbax](https://dbax.io). [You can access the project page](https://dbax.io).
+I recently released the first pre-release of the first MVC PL/SQL framework, called [dbax](https://dbax.io). [You can access the project page](https://dbax-project.com).
 
 dbax is an open source framework for developing applications and Web services with PL/SQL. Its philosophy is to develop PL/SQL code in an elegant and simple way, avoiding the "spaghetti code". It was created in 2017 and has a great influence of frameworks like Laravel, Ruby on Rails or Sinatra.
 
@@ -70,7 +70,5 @@ With dbax PL / SQL developers learn Web technologies and this knowledge and conc
 [DBMS_EPG]: https://docs.oracle.com/cd/B28359_01/appdev.111/b28419/d_epg.htm
 
 ## Conclusion
-
-I have developed [a few demo applications](http://apps.dbax.io) where you can view the source code and run the applications. The whole site is created with the own framework on an Oracle Express Edition, that is free.
 
 With dbax I took the modern, elegant and flexible development of web applications to the database.
